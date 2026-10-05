@@ -1,0 +1,10 @@
+ultralytics
+pandas
+numpy
+opencv-python
+Pillow
+matplotlib
+scikit-learn
+librosa
+soundfile
+kaggle

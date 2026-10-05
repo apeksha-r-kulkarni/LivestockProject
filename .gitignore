@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+data/
+runs/
+outputs/
+*.pt
+*.txt
+!requirements.txt
+!README.md
+.env

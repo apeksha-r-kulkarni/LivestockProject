@@ -1,0 +1,11 @@
+path: ../data/processed/vision
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: standing
+  1: lying
+  2: feeding
+  3: drinking
+  4: rumination
